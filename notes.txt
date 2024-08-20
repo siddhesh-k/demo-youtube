@@ -1,0 +1,34 @@
+# Types of display elements in html
+
+- Block Element
+    Takes up the entire line
+
+- Inline-block Element
+    Takes only as much spase as needed
+
+- Inline Element
+    Appears within a line of text
+
+
+# Nested layout Techniques
+
+- Vertical Layout
+    Items are on Top of each other 
+
+- Horizontal Layout
+    Items are besides each other
+
+- Grid Layout
+    Layout with rows and columns
+    
+- Flex Layout
+    Elements inside Flex behave more like Inline-block instead of block elements
+
+- CSS positions
+    To make an element placed/positioned:
+    Absoloute, i.e. with respect to the page if not in a relative positioned element
+    Relative, i.e. with respect to the outer element
+    OR
+    Static, i.e. default position
+    Fixed, i.e. placed with respect to the browser window 
+
